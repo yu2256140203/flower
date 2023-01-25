@@ -19,6 +19,7 @@
 ![Build](https://github.com/adap/flower/actions/workflows/flower.yml/badge.svg)
 ![Downloads](https://pepy.tech/badge/flwr)
 [![Slack](https://img.shields.io/badge/Chat-Slack-red)](https://flower.dev/join-slack)
+[![Flower Monthly](https://img.shields.io/badge/Flower_Monthly-Feb_01-blue?&style=flat&logo=zoom)](https://todo-change-me-to-the-zoom-link/)
 
 Flower (`flwr`) is a framework for building federated learning systems. The
 design of Flower is based on a few guiding principles:
